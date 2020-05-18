@@ -1,5 +1,7 @@
 <?php
 
-if isset(s)
+if (isset($_get['inex,php']){
+echo "Hello world";
+}
 
 ?>
